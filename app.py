@@ -1,3 +1,4 @@
+# Copyright (c) 2026 Devashish (https://github.com/devashish-1319). MIT License.
 """YouTube transcript Q&A chatbot powered by Google Gemini + Chroma (RAG)."""
 import os
 import sys

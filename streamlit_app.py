@@ -1,3 +1,4 @@
+# Copyright (c) 2026 Devashish (https://github.com/devashish-1319). MIT License.
 """Streamlit UI for the Gemini-powered YouTube transcript Q&A chatbot.
 
 Run with:  streamlit run streamlit_app.py

@@ -86,7 +86,7 @@ YouTube URL
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/devashishtushar-biz4group/youtube-chatbot-gemini.git
+git clone https://github.com/devashish-1319/youtube-chatbot-gemini.git
 cd youtube-chatbot-gemini
 ```
 
@@ -164,6 +164,7 @@ youtube-chatbot-gemini/
 ├── streamlit_app.py    # Streamlit web UI
 ├── test_env.py         # Verifies GOOGLE_API_KEY loads from .env
 ├── requirements.txt    # Pinned dependencies
+├── LICENSE             # MIT License (copyright Devashish)
 ├── .gitignore          # Excludes .env, venv/, chroma_db/, etc.
 ├── .env                # Your API key (NOT committed)
 └── chroma_db/          # Local vector store (auto-generated, NOT committed)
@@ -200,10 +201,21 @@ You can tweak these constants at the top of `app.py` / `streamlit_app.py`:
 
 ---
 
+## 👤 Ownership & Author
+
+This is an original project created, written, and owned entirely by
+**Devashish** ([@devashish-1319](https://github.com/devashish-1319)). All code
+in this repository is © 2026 Devashish, and this repository is the sole
+official home of the project.
+
+---
+
 ## 📄 License
 
-This project is provided as-is for educational purposes. Add a license of your
-choice (e.g. MIT) if you intend to distribute it.
+Released under the [MIT License](LICENSE). Copyright (c) 2026 Devashish.
+
+You are free to use, modify, and distribute this software as long as the
+copyright notice and license text are kept with it.
 
 ---
 

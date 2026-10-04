@@ -1,3 +1,4 @@
+# Copyright (c) 2026 Devashish (https://github.com/devashish-1319). MIT License.
 """Quick test to verify environment variables load correctly."""
 import os
 
